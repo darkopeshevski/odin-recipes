@@ -1,0 +1,1 @@
+I'm gonna make a recipe website using only HTML. I will use all the elements and tags I've learned so far, like : ordered lists, "strong" and "em" tags, providing absolute and relative links with "a href" etc.
